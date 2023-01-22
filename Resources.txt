@@ -1,0 +1,16 @@
+Free logo site: 1. https://www.freelogodesign.org/ , 2. https://turbologo.com/logo-ideas , 3. https://blog.designcrowd.com/article/744/100-famous-corporate-logos-from-the-top-companies-of-2015 , 4. https://www.designevo.com/
+
+Free Image site: 1. https://www.pexels.com/ , 2. https://unsplash.com/ , 3. https://pixabay.com/
+
+Free Icon site: 1. https://heroicons.com/ , 2. https://ionic.io/ionicons , 3. https://www.flaticon.com/
+
+Font family: font-family: 'Open Sans', sans-serif; <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap"
+      rel="stylesheet"
+    />
+
+clip-path maker : https://bennettfeely.com/clippy/
+
+moto ideas: https://brandongaille.com/37-catchy-charity-campaign-slogans/#:~:text=Give%20more%20out%20of%20life,Give%20today%2C%20make%20tomorrow%20better.

@@ -11,13 +11,14 @@ html {
 }
 
 :root {
-  --primary: #fff;
+  --primary: #f5f5f5;
   --secondary: #002366;
-  --dark: #000000;
+  --dark: #111111;
 }
 
 body {
   font-family: "Poppins", sans-serif;
+  background: var(--primary);
 }
 
 .container {

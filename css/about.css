@@ -200,6 +200,7 @@ ul li {
   flex-direction: column;
   justify-content: center;
   visibility: hidden;
+  margin-top: 2rem;
 }
 
 .vision-text h2 {
@@ -220,13 +221,13 @@ ul li {
   margin-left: 2rem;
   display: flex;
   visibility: hidden;
+  padding-top: 2rem;
 }
 
 .vision-img img {
   max-width: 100%;
   max-height: 70%;
   border-radius: 0.25rem;
-  border: 1px solid #000;
 }
 
 /* mission */
@@ -278,7 +279,6 @@ ul li {
   max-width: 100%;
   max-height: 70%;
   border-radius: 0.25rem;
-  border: 1px solid #000;
 }
 
 /* Annual report */
@@ -287,12 +287,13 @@ ul li {
   height: 70dvh;
   display: flex;
   justify-content: center;
-  background: url(../images/img_9.jpg) center no-repeat;
+  background: url(../images/image15.jpg) center no-repeat;
   background-size: cover;
   margin: 2rem;
   border-radius: 60px;
   background-position: center;
   visibility: hidden;
+  margin-top: 4rem;
 }
 
 .annual-report-heading h2 {

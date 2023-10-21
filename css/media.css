@@ -1,7 +1,7 @@
 /* Media querries for Index page */
 :root {
   --primary: #fff;
-  --secondary: #2a3891;
+  --secondary: #0000ff;
   --dark: #000000;
 }
 /* For mobile */
@@ -235,7 +235,7 @@
     background: url(../images/img_7.jpg) center no-repeat;
     background-position: 55%;
     background-size: cover;
-    height: 100dvh;
+    height: 110dvh;
     margin-top: -20rem;
   }
 
